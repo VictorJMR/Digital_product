@@ -1,0 +1,49 @@
+@media screen and (max-width: 600px)
+ {
+   body
+   {
+    background: yellow;
+   }
+
+   .products
+   {
+      display: inherit;
+      height: auto;
+
+   }
+
+   .product
+   {
+     margin-top: auto;
+   }
+
+   .main-section
+   {
+     padding: 4%;
+
+   }
+   .content img
+   {
+    width: 200px;
+    height: auto;
+   }
+
+  .sec1
+  {
+  padding-top: 100%;
+  flex-wrap: wrap;
+  background: none;
+  }
+
+  .sec-conte
+  {
+    width: inherit;
+    text-align: center
+  }
+   .opi
+   {
+     display: flex;
+     flex-wrap: wrap-reverse;
+     width: auto;
+
+}
